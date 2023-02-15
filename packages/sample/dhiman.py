@@ -1,2 +1,1 @@
-from url.ayush import main
-print(main())
+from hello.hello import main
