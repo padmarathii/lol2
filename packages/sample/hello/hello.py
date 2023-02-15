@@ -10,6 +10,7 @@ def main(args):
     greeting = name
     print(greeting)
     return {"body": greeting}
-    my_file = open("../output/file.txt", "w")
-    my_file.write(greeting)
-    my_file.close()
+#     my_file = open("../output/file.txt", "w")
+#     my_file.write(greeting)
+#     my_file.close()
+main(args)
